@@ -24,7 +24,7 @@ class Program
         Console.WriteLine("Any Programming Experience" + programmingexperience);
 
         // Step 4: Use Constants
-        cont string schoolname = "Cuyahoga Community College"
+        const string schoolname = "Cuyahoga Community College"
             Console.WriteLine("The name of my place of learning is" + schoolname);
     } 
 }
