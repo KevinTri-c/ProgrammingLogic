@@ -18,13 +18,13 @@ class Program
         string favoritelanguage = "C#";
         double numberofprograms = 1.0;
         bool programmingexperience = false;
-        Console.WriteLine("My favorite number is" + favoritenumber);
-        Console.WriteLine("My favorite programming language is now" + favoritelanguage + "becuase it is the one I am learning currently");
-        Console.WriteLine("The number of programs I have written is now" + numberofprograms);
-        Console.WriteLine("Any Programming Experience" + programmingexperience);
+        Console.WriteLine("My favorite number is " + favoritenumber);
+        Console.WriteLine("My favorite programming language is now " + favoritelanguage + " becuase it is the one I am learning currently");
+        Console.WriteLine("The number of programs I have written is now " + numberofprograms);
+        Console.WriteLine("Any Programming Experience " + programmingexperience);
 
         // Step 4: Use Constants
-        const string schoolname = "Cuyahoga Community College"
-            Console.WriteLine("The name of my place of learning is" + schoolname);
+        const string schoolname = "Cuyahoga Community College";
+         Console.WriteLine("The name of my place of learning is " + schoolname);
     } 
 }
